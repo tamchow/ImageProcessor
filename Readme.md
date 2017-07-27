@@ -1,4 +1,4 @@
-#Image colors to 3D heightfields in CSV
+# Image colors to 3D heightfields in CSV
 
 Needs Java 8 and Swing.
 
